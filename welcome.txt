@@ -1,2 +1,2 @@
 Hi Praveen Welcome
-This file is belongs to LR Master branch
+This file is belongs to Git Repo Master branch
